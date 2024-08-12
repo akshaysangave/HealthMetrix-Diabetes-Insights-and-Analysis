@@ -12,16 +12,11 @@ The primary objective of this analysis is to assess the health metrics related t
 
 ## Stakeholders
 
-**1. Healthcare Providers:**
-Doctors, nurses, and healthcare professionals who are directly involved in patient care and diabetes management.
-#### 2. Public Health Officials: 
-Government and non-governmental organizations involved in designing public health policies and initiatives related to diabetes.
-#### 3. Patients: 
-Individuals diagnosed with diabetes or at risk of developing diabetes.
-#### 4. Researchers: 
-Scientists and researchers studying diabetes to develop better treatments and preventive measures.
-#### 5. Insurance Companies: 
-Entities involved in providing health insurance and assessing the risks associated with diabetes.
+**1. Healthcare Providers:** Doctors, nurses, and healthcare professionals who are directly involved in patient care and diabetes management.
+**2. Public Health Officials:** Government and non-governmental organizations involved in designing public health policies and initiatives related to diabetes.
+**3. Patients:** Individuals diagnosed with diabetes or at risk of developing diabetes.
+**4. Researchers:** Scientists and researchers studying diabetes to develop better treatments and preventive measures.
+**5. Insurance Companies:** Entities involved in providing health insurance and assessing the risks associated with diabetes.
 
 ## Data Processing
 
