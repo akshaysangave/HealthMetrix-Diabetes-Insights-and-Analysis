@@ -72,7 +72,7 @@ The analysis was conducted using Tableau to visualize key health metrics and gai
 ![Tableau Dashboard](https://github.com/user-attachments/assets/2cff11f6-f50c-4c79-81cd-ed4412070b04)
 
 ## SQL Queries
-Check the SQL work done for this project.[SQL Queries.pdf](https://github.com/user-attachments/files/16589085/SQL.Queries.pdf)
+Check the SQL work done for this project. [SQL Queries.pdf](https://github.com/user-attachments/files/16589085/SQL.Queries.pdf)
 
 ## Insights
 
