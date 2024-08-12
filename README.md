@@ -50,7 +50,7 @@ The analysis was conducted using Tableau to visualize key health metrics and gai
 
 ## Tableau Dashboard
    
-![Tableau Dashboard](https://github.com/user-attachments/assets/fb817310-c8ab-41dc-a6fc-dc146fc157ef)
+![Tableau Dashboard](https://github.com/user-attachments/assets/2cff11f6-f50c-4c79-81cd-ed4412070b04)
 
 ## SQL Queries
 Check the SQL work done for this project.
