@@ -29,7 +29,9 @@ The data used for this analysis comprises 100,000 patient records, including key
 ## Key steps involved in data processing:
 
 **1. Data Cleaning:** Removal of duplicate records, handling missing values, and correcting inconsistent data entries.
+
 **2. Data Transformation:** Calculating derived metrics such as the percentage of patients with controlled diabetes, average BMI, and others.
+
 **3. Data Validation:** Ensuring the accuracy and validity of the data before analysis.
 
 ## Analysis and Visualization
