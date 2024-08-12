@@ -38,21 +38,35 @@ The data used for this analysis comprises 100,000 patient records, including key
 
 The analysis was conducted using Tableau to visualize key health metrics and gain insights into the distribution of diabetes among the patient population. The following KPIs were created and visualized:
 
-1. Total Number of Patients: Count of all patients.
-2. Number of Patients with Diabetes: Count of patients diagnosed with diabetes.
-3. Percentage of Patients with Diabetes: (Number of Patients with Diabetes / Total Number of Patients) * 100.
-4. Average Age of Patients: Mean age of all patients.
-5. Average BMI of Patients: Mean BMI of all patients.
-6. Distribution of Blood Glucose Levels: Visualization using a histogram to show the spread of blood glucose levels.
-7. Percentage of Patients with Hypertension: (Number of Patients with Hypertension / Total Number of Patients) * 100.
-8. Percentage of Patients with Heart Disease: (Number of Patients with Heart Disease / Total Number of Patients) * 100.
-9. Smoking History Distribution: Visualization of smoking history (e.g., never, current, ex-smoker) using a bubble chart.
-10. Patients with BMI Greater Than Average BMI: Count of patients with a BMI greater than the average BMI.
-11. Patients with Hypertension and Diabetes: Count of patients with both hypertension and diabetes.
-12. Patients with Heart Disease and Diabetes: Count of patients with both heart disease and diabetes.
-13. Patients with Heart Disease and Hypertension: Count of patients with both heart disease and hypertension.
-14. Gender Distribution of Patients with Diabetes: Visualization using a donut chart to show the gender distribution.
-15. HbA1c Levels Distribution: Visualization using a bar chart to show the distribution of HbA1c levels.
+**1. Total Number of Patients:** Count of all patients.
+
+**2. Number of Patients with Diabetes:** Count of patients diagnosed with diabetes.
+
+**3. Percentage of Patients with Diabetes:** (Number of Patients with Diabetes / Total Number of Patients) * 100.
+
+**4. Average Age of Patients:** Mean age of all patients.
+
+**5. Average BMI of Patients:** Mean BMI of all patients.
+
+**6. Distribution of Blood Glucose Levels:** Visualization using a histogram to show the spread of blood glucose levels.
+
+**7. Percentage of Patients with Hypertension:** (Number of Patients with Hypertension / Total Number of Patients) * 100.
+
+**8. Percentage of Patients with Heart Disease:** (Number of Patients with Heart Disease / Total Number of Patients) * 100.
+
+**9. Smoking History Distribution:** Visualization of smoking history (e.g., never, current, ex-smoker) using a bubble chart.
+
+**10. Patients with BMI Greater Than Average BMI:** Count of patients with a BMI greater than the average BMI.
+
+**11. Patients with Hypertension and Diabetes:** Count of patients with both hypertension and diabetes.
+
+**12. Patients with Heart Disease and Diabetes:** Count of patients with both heart disease and diabetes.
+
+**13. Patients with Heart Disease and Hypertension:** Count of patients with both heart disease and hypertension.
+
+**14. Gender Distribution of Patients with Diabetes:** Visualization using a donut chart to show the gender distribution.
+
+**15. HbA1c Levels Distribution:** Visualization using a bar chart to show the distribution of HbA1c levels.
 
 ## Tableau Dashboard
    
@@ -63,29 +77,37 @@ Check the SQL work done for this project.
 
 ## Insights
 
-1. Controlled Diabetes: 61.73% of the patients with diabetes have their condition under control, which is a positive indicator but still leaves a significant portion of patients at risk.
-2. Age and Diabetes: The average age of patients is 27.48 years, which suggests that diabetes affects a relatively young population in this dataset.
-3. BMI and Blood Glucose: A correlation between BMI and blood glucose levels was observed, indicating that higher BMI is often associated with elevated blood glucose levels.
-4. Hypertension and Heart Disease: A considerable percentage of patients with diabetes also suffer from hypertension (7.49%) and heart disease (3.94%), highlighting the need for integrated care approaches.
+**1. Controlled Diabetes:** 61.73% of the patients with diabetes have their condition under control, which is a positive indicator but still leaves a significant portion of patients at risk.
+
+**2. Age and Diabetes:** The average age of patients is 27.48 years, which suggests that diabetes affects a relatively young population in this dataset.
+
+**3. BMI and Blood Glucose:** A correlation between BMI and blood glucose levels was observed, indicating that higher BMI is often associated with elevated blood glucose levels.
+
+**4. Hypertension and Heart Disease:** A considerable percentage of patients with diabetes also suffer from hypertension (7.49%) and heart disease (3.94%), highlighting the need for integrated care approaches.
 
 ## Findings
 
-1. Prevalence of Diabetes: 8.5% of the patient population is diagnosed with diabetes, indicating a significant public health concern.
-2. Gender Differences: The gender distribution analysis shows a slightly higher prevalence of diabetes among females compared to males.
-3. Smoking History: A large proportion of patients (35,095) have never smoked, which may have a protective effect against developing diabetes.
+**1. Prevalence of Diabetes:** 8.5% of the patient population is diagnosed with diabetes, indicating a significant public health concern.
+
+**2. Gender Differences:** The gender distribution analysis shows a slightly higher prevalence of diabetes among females compared to males.
+
+**3. Smoking History:** A large proportion of patients (35,095) have never smoked, which may have a protective effect against developing diabetes.
 
 ## Recommendations
 
-1. Targeted Interventions: Focus on younger populations who are at risk of developing diabetes, with personalized interventions based on BMI and blood glucose levels.
-2. Integrated Care Programs: Develop care programs that address both diabetes and associated conditions like hypertension and heart disease.
-3. Smoking Cessation Programs: Promote smoking cessation programs to reduce the risk of diabetes and related complications.
-4. Education and Awareness: Increase patient awareness about the importance of maintaining a healthy BMI and regular monitoring of blood glucose levels.
+**1. Targeted Interventions:** Focus on younger populations who are at risk of developing diabetes, with personalized interventions based on BMI and blood glucose levels.
+
+**2. Integrated Care Programs:** Develop care programs that address both diabetes and associated conditions like hypertension and heart disease.
+
+**3. Smoking Cessation Programs:** Promote smoking cessation programs to reduce the risk of diabetes and related complications.
+
+**4. Education and Awareness:** Increase patient awareness about the importance of maintaining a healthy BMI and regular monitoring of blood glucose levels.
 
 ## Challenges
 
-1. Data Quality: Ensuring the accuracy and completeness of the data was a challenge, especially with missing or inconsistent entries.
-2. Patient Privacy: Handling sensitive patient information while maintaining confidentiality and adhering to data protection regulations.
-3. Complexity of Disease Management: Diabetes management requires addressing multiple comorbidities, making it complex to analyze and provide comprehensive care recommendations.
+**1. Data Quality:** Ensuring the accuracy and completeness of the data was a challenge, especially with missing or inconsistent entries.
+**2. Patient Privacy:** Handling sensitive patient information while maintaining confidentiality and adhering to data protection regulations.
+**3. Complexity of Disease Management:** Diabetes management requires addressing multiple comorbidities, making it complex to analyze and provide comprehensive care recommendations.
 
 ## Conclusion
 
