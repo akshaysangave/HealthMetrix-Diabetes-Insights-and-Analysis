@@ -1,4 +1,3 @@
-# HealthMetrix-Diabetes-Insights-and-Analysis
 ![Frontpage](https://github.com/user-attachments/assets/bdbc10a0-fea9-4833-843c-62b5539a1d5f)
 Analyze diabetes-related data to identify trends and provide actionable insights for healthcare stakeholders, aiding in prevention and management strategies.
 
@@ -106,7 +105,9 @@ Check the SQL work done for this project.
 ## Challenges
 
 **1. Data Quality:** Ensuring the accuracy and completeness of the data was a challenge, especially with missing or inconsistent entries.
+
 **2. Patient Privacy:** Handling sensitive patient information while maintaining confidentiality and adhering to data protection regulations.
+
 **3. Complexity of Disease Management:** Diabetes management requires addressing multiple comorbidities, making it complex to analyze and provide comprehensive care recommendations.
 
 ## Conclusion
