@@ -19,6 +19,7 @@ The primary objective of this analysis is to assess the health metrics related t
 **3. Patients:** Individuals diagnosed with diabetes or at risk of developing diabetes.
 
 **4. Researchers:** Scientists and researchers studying diabetes to develop better treatments and preventive measures.
+
 **5. Insurance Companies:** Entities involved in providing health insurance and assessing the risks associated with diabetes.
 
 ## Data Processing
@@ -27,9 +28,9 @@ The data used for this analysis comprises 100,000 patient records, including key
 
 ## Key steps involved in data processing:
 
-1. Data Cleaning: Removal of duplicate records, handling missing values, and correcting inconsistent data entries.
-2. Data Transformation: Calculating derived metrics such as the percentage of patients with controlled diabetes, average BMI, and others.
-3. Data Validation: Ensuring the accuracy and validity of the data before analysis.
+**1. Data Cleaning:** Removal of duplicate records, handling missing values, and correcting inconsistent data entries.
+**2. Data Transformation:** Calculating derived metrics such as the percentage of patients with controlled diabetes, average BMI, and others.
+**3. Data Validation:** Ensuring the accuracy and validity of the data before analysis.
 
 ## Analysis and Visualization
 
