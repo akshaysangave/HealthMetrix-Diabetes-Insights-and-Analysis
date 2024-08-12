@@ -1,4 +1,4 @@
-![Frontpage](https://github.com/user-attachments/assets/bdbc10a0-fea9-4833-843c-62b5539a1d5f)
+![Frontpage](https://github.com/user-attachments/assets/5a37ee03-83dd-470c-ab5a-f238c9cc7127)
 Analyze diabetes-related data to identify trends and provide actionable insights for healthcare stakeholders, aiding in prevention and management strategies.
 
 ## Introduction
